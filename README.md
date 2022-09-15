@@ -30,3 +30,5 @@ This last heat map shows that most of the people checking out bikes are male sub
 
 ## Bikesharing Analysis Summary
 In summary, the majority of people renting out bikes from bikesharing are male subscribers on Tuesdays and Thursdays. The most used time of day for bike renting is also around 4-5 for around 5-10 minute intervals. Another visualization I would do with the data is a graph that showed the most popular starting and ending station by ID. I would also create a graph that showed the trip duration averages by starting station ID.
+
+[link to dashboard](https://public.tableau.com/app/profile/matt.leiser/viz/NYC_Citibike_Challenge_16632065614770/NYCCitibikeChallenge?publish=yes)
